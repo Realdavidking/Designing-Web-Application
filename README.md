@@ -1,4 +1,13 @@
 # Deploying a Web Application
+<p align="center">
+Web App Example: <br/>
+<img src="https://i.imgur.com/hqsmmpX.png" height="80%" width="80%" alt="Create a Resource"/>
+
+<br />
+
+<img src="https://i.imgur.com/Aj4fbIq.png" height="80%" width="80%" alt="Create a Resource"/>
+
+<br />
 <br />
 <h2>Description</h2>
 This Project will demonstrate the steps on how to Deploy a Web App utilizing Microsoft Azure services.
@@ -12,7 +21,7 @@ This Project will demonstrate the steps on how to Deploy a Web App utilizing Mic
 
 - <b>Mac OS</b>
 
-<h2>How To Guide:</h2>  
+<h2>Project Guide:</h2>  
 
 1. Sign up for an account on Microsoft Azure portal.azure.com
 
@@ -42,8 +51,8 @@ Generating SSH Key: <br/>
 4. Select "+ create" to start creation of Application
 
 <p align="center">
-Jumpbox Creation: <br/>
-<img src="https://i.imgur.com/8AQhVyA.png" height="80%" width="80%" alt="SSH"/>
+ <br/>
+<img src="https://i.imgur.com/ZkYUp8I.png" height="80%" width="80%" alt="SSH"/>
 
 <br />
 <br />
@@ -66,11 +75,10 @@ Jumpbox Creation: <br/>
 -Region: Select the same region that was used for the resource group.
 
 <br/>
-The following image shows the completed "Basics" tab:
 
 <p align="center">
-Server Creation: <br/>
-<img src="https://i.imgur.com/4NkFxJz.png" height="80%" width="80%" alt="SSH"/>
+The following image shows the completed "Basics" tab: <br/>
+<img src="https://i.imgur.com/tk6Y9il.png" height="80%" width="80%" alt="SSH"/>
 
 <br />
 <br />
@@ -92,8 +100,8 @@ Server Creation: <br/>
 
 
 <p align="center">
-SSH Security Rule: <br/>
-<img src="https://i.imgur.com/9grLrCz.png" height="80%" width="80%" alt="SSH"/>
+Example: <br/>
+<img src="https://i.imgur.com/agGvXUv.png" height="80%" width="80%" alt="SSH"/>
 
 <br />
 <br />
@@ -103,8 +111,8 @@ SSH Security Rule: <br/>
 
 
 <p align="center">
-Install Docker: <br/>
-<img src="https://i.imgur.com/vfN5yKw.png" height="80%" width="80%" alt="SSH"/>
+<br/>
+<img src="https://i.imgur.com/tk6Y9il.png" height="80%" width="80%" alt="SSH"/>
 
 <br />
 <br />
@@ -112,18 +120,16 @@ Install Docker: <br/>
 8. Select "Create" at the bottom
    
 <p align="center">
-Pulling Container: <br/>
-<img src="https://i.imgur.com/QnnWfZL.png" height="80%" width="80%" alt="SSH"/>
+<br/>
+<img src="https://i.imgur.com/ydowDy9.png" height="80%" width="80%" alt="SSH"/>
 
 <br />
 <br />
 
 
 9. Once App has been created and deployed you will be able to find it by clicking "Go to Resource" , or searching "App Services" in the Azure search field.
-
-<p align="center">
-Running container: <br/>
-<img src="https://i.imgur.com/fkQgAVO.png" height="80%" width="80%" alt="SSH"/>
+Application Page: <br/>
+<img src="https://i.imgur.com/HHsWStq.png" height="80%" width="80%" alt="SSH"/>
 
 <br />
 <br />
