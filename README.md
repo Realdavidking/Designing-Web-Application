@@ -1,4 +1,4 @@
-# Deploying a Web Application
+# Creating and Deploying a Web Application on Azure
 <p align="center">
 Web App Example: <br/>
 <img src="https://i.imgur.com/hqsmmpX.png" height="80%" width="80%" alt="Create a Resource"/>
