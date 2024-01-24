@@ -40,8 +40,8 @@ Creating Resource Group: <br/>
 3. Navigate to Azure search field and search and select "App Services"
 
 <p align="center">
-Generating SSH Key: <br/>
-<img src="https://i.imgur.com/kyMKdGE.png" height="80%" width="80%" alt="SSH"/>
+<br/>
+<img src="blob:https://imgur.com/a0e5cd7f-41e4-4bb0-8be6-f801af264019" height="80%" width="80%" alt="SSH"/>
 
 <br />
 <br />
