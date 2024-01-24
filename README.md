@@ -12,7 +12,7 @@ This Project will demonstrate the steps on how to Deploy a Web App utilizing Mic
 
 - <b>Mac OS</b>
 
-<h2>Project walk-through:</h2>  
+<h2>How To Guide:</h2>  
 
 1. Sign up for an account on Microsoft Azure portal.azure.com
 
