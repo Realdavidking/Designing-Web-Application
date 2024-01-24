@@ -41,7 +41,7 @@ Creating Resource Group: <br/>
 
 <p align="center">
 <br/>
-<img src="blob:https://imgur.com/a0e5cd7f-41e4-4bb0-8be6-f801af264019" height="80%" width="80%" alt="SSH"/>
+<img src="https://i.imgur.com/LuhCcg6.png" height="80%" width="80%" alt="appservices"/>
 
 <br />
 <br />
